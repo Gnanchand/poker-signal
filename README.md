@@ -17,4 +17,5 @@ The poker game connects to:
 `wss://poker-signal.gnanchandch.workers.dev/room/<10-hex-room-id>?role=host`
 
 or `?role=guest`.
+
 Cloudflare signaling server
